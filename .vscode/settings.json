@@ -1,0 +1,12 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "working-files/lib/poi-5.2.3.jar",
+        "working-files/lib/commons-io-2.11.0.jar",
+        "working-files/lib/log4j-core-2.19.0.jar",
+        "working-files/lib/log4j-slf4j-impl-2.19.0.jar",
+        "working-files/lib/log4j-api-2.19.0.jar",
+        "working-files/lib/commons-collections4-4.4.jar",
+        "working-files/lib/gson-2.9.1.jar"
+    ]
+}
